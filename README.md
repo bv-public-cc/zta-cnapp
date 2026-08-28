@@ -11,7 +11,7 @@ The most important file in this projcet is:
 ```
 docs/CNAPP_Taxonomy_ZTA.xlsx
 ```
-This workbook contains the taxonomy, alignment logic, and scoring model.  During schoolwork, and trying to understand implementations of CNAPP with Zero Trust Architectures (ZTA), a search was done to find formal mappings.  It seems to be something that is missing that formally ties CNAPP capabilities to the a regulated ZTA framework that could be auditable by a governance body.  
+This workbook contains the taxonomy, alignment logic, and scoring model.  During schoolworks and trying to understand implementations of CNAPP with Zero Trust Architectures (ZTA), a search was done to find formal mappings.  It seems to be something that is missing that formally ties CNAPP capabilities to the a regulated ZTA framework that could be auditable by a governance body.  
 
 So, in a vain attempt, this workbook is a formal mapping of CNAPP capabilities to specific NIST SP 800-207 constructs in a way that can be used for quantitative analysis and scoring.
 
@@ -32,7 +32,9 @@ This repository implements that logic in a working system, though it is still he
 
 This lab is not meant to be a full CNAPP implementation, but rather a reference architecture that demonstrates how CNAPP capabilities can be systematically evaluated and operationalized within a Zero Trust framework.
 
-Mainly it is meant to be a personal learning project (which I hope to turn into my SANS MSISE project), and is not designed to replace commercial CNAPP platforms, but to help understand the mapping and how to operationalize it in a transparent, measurable way.
+Mainly it was meant to be a personal learning project, and initial discovery for a college Masters Paper. 
+
+It is/was not designed or can even feasibly replace commercial CNAPP platforms, but is intended for understanding mappings, and operationalization of ZTA in a hybrid clouud environment via a transparent, measurable way.
 
 ---
 
